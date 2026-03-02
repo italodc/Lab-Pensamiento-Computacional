@@ -1,0 +1,7 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio 6.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio 6.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\bin\Debug\Laboratorio 6.exe.config
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\bin\Debug\Laboratorio 6.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\bin\Debug\Laboratorio 6.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio 6.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 6\Laboratorio 6\Laboratorio 6\obj\Debug\Laboratorio 6.pdb
