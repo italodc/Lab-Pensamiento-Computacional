@@ -1,0 +1,7 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.exe.config
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\bin\Debug\Laboratorio 4.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Laboratorio 4\Laboratorio 4\obj\Debug\Laboratorio 4.pdb

@@ -1,0 +1,15 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\bin\Debug\net10.0\Lab03-A2-Italo Diaz.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\bin\Debug\net10.0\Lab03-A2-Italo Diaz.deps.json
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\bin\Debug\net10.0\Lab03-A2-Italo Diaz.runtimeconfig.json
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\bin\Debug\net10.0\Lab03-A2-Italo Diaz.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\bin\Debug\net10.0\Lab03-A2-Italo Diaz.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.AssemblyInfo.cs
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.sourcelink.json
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\refint\Lab03-A2-Italo Diaz.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\Lab03-A2-Italo Diaz.genruntimeconfig.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 3\Lab03-A2-Italo Diaz\Lab03-A2-Italo Diaz\obj\Debug\net10.0\ref\Lab03-A2-Italo Diaz.dll

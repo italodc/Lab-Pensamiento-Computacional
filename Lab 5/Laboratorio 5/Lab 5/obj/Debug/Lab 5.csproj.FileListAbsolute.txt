@@ -1,0 +1,7 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
