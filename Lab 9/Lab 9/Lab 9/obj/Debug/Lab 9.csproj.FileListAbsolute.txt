@@ -1,0 +1,7 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\bin\Debug\Lab 9.exe.config
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\bin\Debug\Lab 9.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\bin\Debug\Lab 9.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\obj\Debug\Lab 9.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\obj\Debug\Lab 9.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 8\Lab 9\Lab 9\obj\Debug\Lab 9.pdb

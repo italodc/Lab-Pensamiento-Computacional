@@ -1,0 +1,29 @@
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.exe
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.deps.json
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.runtimeconfig.json
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.dll
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.pdb
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.dll
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\refint\Proyecto fase de pruebas.dll
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.pdb
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Proyecto fase de pruebas\obj\Debug\net10.0\ref\Proyecto fase de pruebas.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.deps.json
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.runtimeconfig.json
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\bin\Debug\net10.0\Proyecto fase de pruebas.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.AssemblyInfoInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.AssemblyInfo.cs
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.sourcelink.json
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\refint\Proyecto fase de pruebas.dll
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\Proyecto fase de pruebas.genruntimeconfig.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto fase de pruebas\Proyecto fase de pruebas\obj\Debug\net10.0\ref\Proyecto fase de pruebas.dll
