@@ -1,0 +1,7 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\bin\Debug\Lab12.exe.config
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\bin\Debug\Lab12.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\bin\Debug\Lab12.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\obj\Debug\Lab12.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\obj\Debug\Lab12.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\obj\Debug\Lab12.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Lab 12\Lab12\Lab12\obj\Debug\Lab12.pdb

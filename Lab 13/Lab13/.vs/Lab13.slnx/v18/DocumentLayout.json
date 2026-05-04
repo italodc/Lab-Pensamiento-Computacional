@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\lab13\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|solutionrelative:lab13\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\lab13\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|solutionrelative:lab13\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\lab13\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|solutionrelative:lab13\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\lab13\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|solutionrelative:lab13\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|c:\\users\\italo\\documents\\github\\lab-pensamiento-computacional\\lab 13\\lab13\\lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C249CB1-557C-4F6B-871C-89FB2BCC8E70}|Lab13\\Lab13.csproj|solutionrelative:lab13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mascota.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\Mascota.cs",
+              "RelativeDocumentMoniker": "Lab13\\Mascota.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\Mascota.cs",
+              "RelativeToolTip": "Lab13\\Mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:27:06.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\Producto.cs",
+              "RelativeDocumentMoniker": "Lab13\\Producto.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\Producto.cs",
+              "RelativeToolTip": "Lab13\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:26:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\vehiculo.cs",
+              "RelativeDocumentMoniker": "Lab13\\vehiculo.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\vehiculo.cs",
+              "RelativeToolTip": "Lab13\\vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:26:14.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "persona.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\persona.cs",
+              "RelativeDocumentMoniker": "Lab13\\persona.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\persona.cs",
+              "RelativeToolTip": "Lab13\\persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T05:25:05.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\Program.cs",
+              "RelativeDocumentMoniker": "Lab13\\Program.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 13\\Lab13\\Lab13\\Program.cs",
+              "RelativeToolTip": "Lab13\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T04:15:11.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
