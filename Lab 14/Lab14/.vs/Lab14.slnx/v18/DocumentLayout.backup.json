@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|c:\\users\\italo\\documents\\github\\lab-pensamiento-computacional\\lab 14\\lab14\\lab14\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|solutionrelative:lab14\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|c:\\users\\italo\\documents\\github\\lab-pensamiento-computacional\\lab 14\\lab14\\lab14\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|solutionrelative:lab14\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|c:\\users\\italo\\documents\\github\\lab-pensamiento-computacional\\lab 14\\lab14\\lab14\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|solutionrelative:lab14\\cuentabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|c:\\users\\italo\\documents\\github\\lab-pensamiento-computacional\\lab 14\\lab14\\lab14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483F35DF-17D4-4595-9139-32A8F6533B6F}|Lab14\\Lab14.csproj|solutionrelative:lab14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\Estudiante.cs",
+              "RelativeDocumentMoniker": "Lab14\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\Estudiante.cs",
+              "RelativeToolTip": "Lab14\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:05:50.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\Producto.cs",
+              "RelativeDocumentMoniker": "Lab14\\Producto.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\Producto.cs",
+              "RelativeToolTip": "Lab14\\Producto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwD8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:05:15.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CuentaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\CuentaBancaria.cs",
+              "RelativeDocumentMoniker": "Lab14\\CuentaBancaria.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\CuentaBancaria.cs",
+              "RelativeToolTip": "Lab14\\CuentaBancaria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T04:04:37.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\Program.cs",
+              "RelativeDocumentMoniker": "Lab14\\Program.cs",
+              "ToolTip": "C:\\Users\\italo\\Documents\\GitHub\\Lab-Pensamiento-Computacional\\Lab 14\\Lab14\\Lab14\\Program.cs",
+              "RelativeToolTip": "Lab14\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T03:44:33.948Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
