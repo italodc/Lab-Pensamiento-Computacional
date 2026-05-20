@@ -1,0 +1,6 @@
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto 2\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\italo\Documents\GitHub\Lab-Pensamiento-Computacional\Proyecto 2\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
